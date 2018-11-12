@@ -1,0 +1,8 @@
+*.tfvars
+!*.outputs.tfvars
+*.tfstate.backup
+.build
+.terraform
+f5.env.bash
+*.tmp
+build
