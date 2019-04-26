@@ -6,6 +6,9 @@
 
 ## 2. (Three Customer Problems)
 > Translate the three Ideas into Customer Problems that you will explore turning into a business. Start by identifying the Customer that will pay you for the Idea. Next, identify the Problem that you are solving for this customer that they can not find convenient or reasonably priced solutions to.Your primary goal right now is to find a real Problem that people urgently want to have solved. Write one sentence for each Customer Problem using the Madlibs format (http://FI.co/madlibs). If you are struggling, review the Founder Institute framework for potential Customer Problems here (https://fi.co/guides/1171).  (1 Hour)
+1. To develop mobile application to help optimize the speed of administration and discharge process of hospital by automation with cross border payment  capability 
+2. To develop patient analytic platform to help doctors to monitor and analyse patients health with predictive capabilities 
+3. To develop clinic information SaaS to help clinic improve efficiency and productivity 
 
 ## 3. (Working Group Feedback)
 > Share your Customer Problem(s) with your Working Group peers and ask for honest feedback and constructive criticism. Write a couple of sentences critiquing the Customer Problem(s) of your Working Group peers, and then paste the content in the chat bubble by their name on your homepage under ‘Working Group’ (this will be public to the Group). Please be brutally honest and polite. Read the feedback posted on yourself. Write one paragraph on what you have learned from the feedback, and what if anything you intend to change. (1 Hour)
