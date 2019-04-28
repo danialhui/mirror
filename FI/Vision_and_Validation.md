@@ -3,32 +3,38 @@
 
 # 1. (Ideation)
 
-## Medical Payment Processor with Patient Analytics
-> To develop Heal to handle both in-country and cross-border  transactions between patient, service providers and payers.
->
-> The medical benefits verification and payment process for in-patient is painfully slow for patient who is in unhealthy state.
->
-> Imaging a seamless admission and discharge process that complete the process in seconds.
+## Healthcare Payment Processor
+> To develop medical mobile payment application to help on optimized speed of medical transaction for verification, admission and discharge processing with cross border capability.
 
 ## Personal Digital Tutor and Virtual Assistant
-> Modern life of children is fast pace and stressful, they need all the help they can get to succeed.
->
-> Amazon Echo Show-like personal assistant to help both children and in home work, learning and growing up.
+> Amazon Echo Show-like personal assistant to help both children and in home work, learning, organizing and scheduling for maximized time effeciency and values, with trend and predictive analysis.
 
 ## Tour Guide Buddy
->
+> To develop a platform for traveler and tour guide service matching, to help travel discover and enjoy authentic local experience and provide job opporunity for local residents.
 
 
 # 2. (Three Customer Problems)
 
 
-## Medical Payment Processor with Patient Analytics
-> To develop medical mobile payment application to help with payment transaction for patient
+## Medical Payment Processor
+> The medical benefits verification and payment process for in-patient is painfully slow, the tedious process of benefits verification with insurer or corporation is inefficient and mistake probe.  Many time, patient has to filling forms and wait for hours before can be warded.  While it usually taken up to half day for patient to be discharged.
+>
+> Imaging a seamless admission and discharge process that complete the process in seconds, not more waiting for hours.
+> Our vision is to develop Healthcare Mobile Payment Solutions to handle both in-country and cross-border transactions between patient, service providers and payers.  Our solution handle the connectivity with the service providers (Hospital, Clinic, Pharmcy) and payer (Corporate, Insurer, Agency), for benefits verfication, claim calculation and payment processing.  The cross border capability come as life saver when you required medical attention at oversea and no where to turn to.
 
+## Personal Tutor Bot and Virtual Assistant
+> Modern life of children is fast pace and stressful, they need all the help they can get to succeed as theier daily life was jammed packed with various activities.  When parent are equally busy, many communication, collboration and attention opportunity was missed out.
+>
+> Every children is different, they learning method, interest, hour of peak productivity, etc. To maximized they potential, the learning style need to adhere to their strength.
+>
+> Our Personal Tutor Bot is built as learning companion to help children learn, assist on their homework, remind on their schedule and analyzed what is working best for him or her.
 
-## Personal Learning Virtual Asistant
-
-
+## Tour Guide Buddy
+> Are you tired of commercial tour guide experience? Or pack-backing while unable to find out more abou tthe true authetic local experience in your travel?
+>
+> Many time, we as the travel has not good alternative as we have no good way to connecting with the local but to depend on the commercial travel agencies.
+>
+> Our platform is to connect the verified local tour guide for tourist to enjoy unforgetable authentic local experience.
 
 
 # 3. (Working Group Feedback)
