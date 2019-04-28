@@ -6,3 +6,4 @@
 f5.env.bash
 *.tmp
 build
+~*.*
