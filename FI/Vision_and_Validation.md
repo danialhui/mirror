@@ -43,11 +43,16 @@
 
 # 4. (Uniquely Qualified)
 
-## Medical Payment Processor with Patient Analytics
+## Medical Payment Processor
 > My years of experience in Healthcare Third Party Administrator for Insurer about 10-15 years ago, and it gave me the opportunity to see how the healthcare industry is working.  My 20 years in software development has prepared me to build the system to address this custoemr problem.
 >
 > I believe that I can run and focus on this business for not just 10 years but life time.  Healthcare is never has the end of it,, and the older you get, the more important it become.
 
+## Personal Tutor Bot and Virtual Assistant
+> 
+
+## Tour Guide Buddy
+>
 
 # 5. (Startup Toolkit)
 > TBC
@@ -55,14 +60,23 @@
 # 6. (Tracking Toolkit)
 ## Sources
 *
+*
+*
+*
+*
+*
 
 ## Tracking Tools
+*
+*
+*
+*
 *
 
 # 7. (Insights)
 > For each Customer Problem, write a bulleted list of at least 10 keywords that would be used to find insights, news and competitors. Use these Keywords to search on multiple search engines, multiple app stores, AngelList, CrunchBase, Linkedin and other distribution or discovery platforms. Provide a bulleted list of the 10 most interesting Resources that you discovered for the Customer Problem, which may include competitors, blogs, personalities, research organizations or partners. (1 Hour)
 
-## Medical Payment Processor with Patient Analytics
+## Medical Payment Processor
 ### Keywords
 1.
 2.
@@ -87,10 +101,59 @@
 9.
 10.
 
+## Personal Tutor Bot and Virtual Assistant
+### Keywords
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
+### Resources
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
+## Tour Guide Buddy
+### Keywords
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
+### Resources
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
 
 # 8. (Initial Interviews)
 
-## Medical Payment Processor with Patient Analytics
+## Medical Payment Processor 
 1. Chan Foo Yau
    * State the Initial Problem
    * Ask to Validate the Problem
@@ -131,7 +194,19 @@
    * Ask if Your Solution Solves the Problem
    * Ask about Money
 
+## Personal Tutor Bot and Virtual Assistant
+1. 
+2.
+3.
+4.
+5.
 
+## Tour Guide Buddy
+1. 
+2.
+3.
+4.
+5.
 
 # 9. (Identify Lead Customers)
 
@@ -142,9 +217,11 @@
 # 10. (Market Research)
 > Start initial Market Research. Complete the Market Research Template available here (http://fndri.com/1Nsi8M6), filling out all of the fields for each Customer Problem. Be as thorough as possible and try to get accurate data from reliable sources. (3 Hours)
 
-## Medical Payment Processor with Patient Analytics
+## Medical Payment Processor 
 
+## Personal Tutor Bot and Virtual Assistant
 
+## Tour Guide Buddy
 
 
 
